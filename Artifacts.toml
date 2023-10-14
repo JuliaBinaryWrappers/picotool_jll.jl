@@ -1,0 +1,56 @@
+[[picotool]]
+arch = "aarch64"
+git-tree-sha1 = "132c2a8868fd0bd5ebe1aa1b58b7e732f4707cd0"
+libc = "glibc"
+os = "linux"
+
+    [[picotool.download]]
+    sha256 = "274b9ba2bfd0ee96dab819c3173c313a1c717ad190bb963b43655773dc178c68"
+    url = "https://github.com/JuliaBinaryWrappers/picotool_jll.jl/releases/download/picotool-v1.1.2+0/picotool.v1.1.2.aarch64-linux-gnu.tar.gz"
+[[picotool]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "03893342aeaa7df93e55aa94ff46ce9ab56fc72c"
+libc = "glibc"
+os = "linux"
+
+    [[picotool.download]]
+    sha256 = "09fb799838d54a4ab342a5be648e583e79d6d12dcbc03f5ebb569e585af06d1e"
+    url = "https://github.com/JuliaBinaryWrappers/picotool_jll.jl/releases/download/picotool-v1.1.2+0/picotool.v1.1.2.armv6l-linux-gnueabihf.tar.gz"
+[[picotool]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6dac826e7a0784b19c82ba8dbf895456ee3d39f1"
+libc = "glibc"
+os = "linux"
+
+    [[picotool.download]]
+    sha256 = "ad7163502a69fa05d603c742bdd88a14e4f2e2ed7aa4e3526eae6f274be5645d"
+    url = "https://github.com/JuliaBinaryWrappers/picotool_jll.jl/releases/download/picotool-v1.1.2+0/picotool.v1.1.2.armv7l-linux-gnueabihf.tar.gz"
+[[picotool]]
+arch = "i686"
+git-tree-sha1 = "e66d9372fe2d0d263fc3f839480335d883344b98"
+libc = "glibc"
+os = "linux"
+
+    [[picotool.download]]
+    sha256 = "e3a4aa35846b30a1c4a455223e941ef8693d0191ee7d3365e8505634534cd582"
+    url = "https://github.com/JuliaBinaryWrappers/picotool_jll.jl/releases/download/picotool-v1.1.2+0/picotool.v1.1.2.i686-linux-gnu.tar.gz"
+[[picotool]]
+arch = "powerpc64le"
+git-tree-sha1 = "6ab26a8628b171607f8341546aacfb54d6dd40e0"
+libc = "glibc"
+os = "linux"
+
+    [[picotool.download]]
+    sha256 = "9d01ea9754d65152e4c708bb982f05ddc71eb5e473e5b968f0f98fd9a6958896"
+    url = "https://github.com/JuliaBinaryWrappers/picotool_jll.jl/releases/download/picotool-v1.1.2+0/picotool.v1.1.2.powerpc64le-linux-gnu.tar.gz"
+[[picotool]]
+arch = "x86_64"
+git-tree-sha1 = "0ac244ee2211a2e39312c8006f9ea925b30afea7"
+libc = "glibc"
+os = "linux"
+
+    [[picotool.download]]
+    sha256 = "86e238b34971ee9f41ef2a72118528bdc629c3c188d7c1396af75f75b6fdaddc"
+    url = "https://github.com/JuliaBinaryWrappers/picotool_jll.jl/releases/download/picotool-v1.1.2+0/picotool.v1.1.2.x86_64-linux-gnu.tar.gz"
